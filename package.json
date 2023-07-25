@@ -1,0 +1,34 @@
+{
+  "name": "goit-node-hw1",
+  "version": "1.0.0",
+  "description": "GoIT HW 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svitlana-Ilnytska/goit-node-hw1.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Svitlana Ilnytska",
+  "license": "MIT",
+  "engines": {
+    "node": "17.0.1",
+    "npm": "8.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Svitlana-Ilnytska/goit-node-hw1/issues"
+  },
+  "homepage": "https://github.com/Svitlana-Ilnytska/goit-node-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
